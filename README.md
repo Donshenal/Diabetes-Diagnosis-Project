@@ -38,7 +38,7 @@ Class variable (0 means non-diabetic, 1 means diabetic)
 
 ### Project Overview
 
-This project focuses on diagnosing diabetes using eight features provided in the PIMA dataset. The project involves several stages:
+This project focuses on diagnosing diabetes using eight features provided in the [PIMA dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database). The project involves several stages:
 
 Data Analysis and Review: Comprehensively review statistical and descriptive information of the dataset.
 
@@ -49,3 +49,12 @@ Model Training: Employ machine learning classification models (Logistic Regressi
 Model Selection and Evaluation: Choose the best model and thoroughly analyze and evaluate the final results.
 
 This repository includes a Jupyter notebook containing detailed information on data preprocessing (handling missing values and outliers) and building machine learning models including hyperparameter tuning for machine learning classification models.
+
+### Acknowledgements
+
+Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
+
+https://www.kaggle.com/code/amir9473/tuning-hyperparameters-ml-classification-acu-94
+
+https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906
+
