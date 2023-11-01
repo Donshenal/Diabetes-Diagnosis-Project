@@ -18,15 +18,15 @@ Dataset Details
 The Pima Indians Diabetes Dataset aims to predict diabetes onset using diagnostic measures. This dataset, obtained from the National Institute of Diabetes and Digestive and Kidney Diseases, concentrates on female patients aged 21 or older with Pima Indian heritage. Its objective is to predict diabetes presence diagnostically based on specific diagnostic measurements selected from a larger database.
 Attribute Information:
 
-    Number of times pregnant
-    Plasma glucose concentration 2 hours in an oral glucose tolerance test
-    Diastolic blood pressure (mm Hg)
-    Triceps skin fold thickness (mm)
-    2-Hour serum insulin (mu U/ml)
-    BMI (weight in kg/(height in m)^2)
-    Diabetes pedigree function
-    Age (years)
-    Class variable (0 means non-diabetic, 1 means diabetic)
+Number of times pregnant
+Plasma glucose concentration 2 hours in an oral glucose tolerance test
+Diastolic blood pressure (mm Hg)
+Triceps skin fold thickness (mm)
+2-Hour serum insulin (mu U/ml)
+BMI (weight in kg/(height in m)^2)
+Diabetes pedigree function
+Age (years)
+Class variable (0 means non-diabetic, 1 means diabetic)
 
 ### Project Overview
 
