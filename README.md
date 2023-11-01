@@ -5,9 +5,9 @@
 
 Diabetes is a chronic health condition that impacts the body's ability to convert food into energy. It involves difficulties in processing food into sugar and regulating its release into the bloodstream, predominantly managed by insulin. Diabetes manifests in three primary types: type 1, type 2, and gestational diabetes, each with distinct characteristics.
 
-    Type 1 Diabetes: Arises from an autoimmune reaction hindering insulin production, typically diagnosed in children and young adults.
-    Type 2 Diabetes: Involves insulin resistance, often diagnosed in adults, but increasingly seen in younger age groups.
-    Gestational Diabetes: Occurs during pregnancy and may pose health risks for both mother and baby. While diabetes has no cure, lifestyle adjustments like weight management, healthy eating, and physical activity significantly aid in its management and prevention.
+Type 1 Diabetes: Arises from an autoimmune reaction hindering insulin production, typically diagnosed in children and young adults.
+Type 2 Diabetes: Involves insulin resistance, often diagnosed in adults, but increasingly seen in younger age groups.
+Gestational Diabetes: Occurs during pregnancy and may pose health risks for both mother and baby. While diabetes has no cure, lifestyle adjustments like weight management, healthy eating, and physical activity significantly aid in its management and prevention.
 
 ### 1.2 What is Pima Indian Diabetes?
 
