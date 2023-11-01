@@ -19,22 +19,33 @@ The Pima Indians Diabetes Dataset aims to predict diabetes onset using diagnosti
 Attribute Information:
 
 Number of times pregnant
+
 Plasma glucose concentration 2 hours in an oral glucose tolerance test
+
 Diastolic blood pressure (mm Hg)
+
 Triceps skin fold thickness (mm)
+
 2-Hour serum insulin (mu U/ml)
+
 BMI (weight in kg/(height in m)^2)
+
 Diabetes pedigree function
+
 Age (years)
+
 Class variable (0 means non-diabetic, 1 means diabetic)
 
 ### Project Overview
 
 This project focuses on diagnosing diabetes using eight features provided in the PIMA dataset. The project involves several stages:
 
-    Data Analysis and Review: Comprehensively review statistical and descriptive information of the dataset.
-    Data Management: Address missing values, duplicates, and outliers.
-    Model Training: Employ machine learning classification models (Logistic Regression, Decision Trees, Neural Networks, XGBoost, KNN, Lightgbm) using techniques like GridSearchCV, RandomizedSearchCV, and Optuna.
-    Model Selection and Evaluation: Choose the best model and thoroughly analyze and evaluate the final results.
+Data Analysis and Review: Comprehensively review statistical and descriptive information of the dataset.
+
+Data Management: Address missing values, duplicates, and outliers.
+
+Model Training: Employ machine learning classification models (Logistic Regression, Decision Trees, Neural Networks, XGBoost, KNN, Lightgbm) using techniques like GridSearchCV, RandomizedSearchCV, and Optuna.
+
+Model Selection and Evaluation: Choose the best model and thoroughly analyze and evaluate the final results.
 
 This repository includes a Jupyter notebook containing detailed information on data preprocessing (handling missing values and outliers) and building machine learning models including hyperparameter tuning for machine learning classification models.
